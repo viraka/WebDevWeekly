@@ -1,3 +1,3 @@
 # WebDevWeekly
 https://viraka.github.io/WebDevWeekly/
-^ above is the website page 
+-> is the website page for this repo
