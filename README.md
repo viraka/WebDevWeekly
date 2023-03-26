@@ -1,2 +1,0 @@
-# WebDevWeekly
-landing.html
